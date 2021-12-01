@@ -1,3 +1,5 @@
+//Copyright © Franco Martino 2021
+
 #include <CapacitiveSensor.h>
 
 CapacitiveSensor sensors[6] = {CapacitiveSensor(4, 2), CapacitiveSensor(4, 3), CapacitiveSensor(4, 5), CapacitiveSensor(4, 6), CapacitiveSensor(4, 7), CapacitiveSensor(4, 8)};
